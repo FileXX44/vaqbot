@@ -28,6 +28,15 @@ bot.on("message", msg => {
       case "love":
         msg.channel.send(":heart:");
         break;
+      case "owo":
+        msg.channel.send("uwu");
+        break;
+      case "moth":
+        msg.channel.send("Show me the lamp, brother");
+        break;
+      case "riporiginalserver":
+        msg.channel.send("It wasn't my fault :pensive");
+        break;
       case "bye":
         msg.channel.send("rip... :broken_heart:");
         break;
